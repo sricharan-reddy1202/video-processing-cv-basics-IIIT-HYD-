@@ -11,13 +11,7 @@ Perform semantic segmentation on images using YOLOv8.
 4. Converted segmented images into video using FFmpeg
 5. Added background audio to the video
 
-## Performance Metrics
-Precision: XX  
-Recall: XX  
-mAP50: XX  
 
-## Output Video
-https://drive.google.com/xxxxx
 
 ## Result
 Successfully performed semantic segmentation and created a video with annotated masks and audio.
