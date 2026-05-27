@@ -1,0 +1,13 @@
+path: datasets
+
+train: images/train
+
+val: images/val
+
+test: images/test
+
+names:
+  0: driver
+  1: phone
+  2: eyes_closed
+  3: eyes_open
