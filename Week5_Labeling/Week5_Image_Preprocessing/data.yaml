@@ -1,0 +1,9 @@
+path: datasets
+
+train: images/train_resized
+
+val: images/val_resized
+
+names:
+  0: driver
+  1: phone
