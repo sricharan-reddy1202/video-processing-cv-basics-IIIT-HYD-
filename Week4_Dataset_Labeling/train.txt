@@ -1,3 +1,0 @@
-images/train/frame_0001.png
-images/train/frame_0010.png
-images/train/frame_0020.png
